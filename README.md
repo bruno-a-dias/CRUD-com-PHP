@@ -54,6 +54,3 @@ Lembre-se de alterar os dados(dbname,user,password) na conexão de acordo com se
         }
 ```
 
-## Créditos
-Diego Massaneiro<br>
-email: dmassaneiro95@gmail.com
